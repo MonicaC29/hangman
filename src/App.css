@@ -1,0 +1,81 @@
+/*Center-align content in the App class*/
+.App {
+  text-align: center;
+}
+
+/*Body styling*/
+body {
+  font-family: "Arial", sans-serif;
+  background-color: rgb(229, 200, 226);
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+/*Styling for h2 elements*/
+h2 {
+  color: rgb(129, 121, 121);
+}
+
+/*Styling for the word display*/
+.word {
+  margin: 20px 0;
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(246, 47, 233);
+}
+
+/*Styling for the letters display*/
+.letters {
+  margin: 20px 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/*Styling for buttons*/
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgb(224, 106, 200);
+  color: #fff;
+  border: violet 3px solid;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/*Hover effect fo button*/
+button:hover {
+  background-color: rgb(254, 3, 254);
+}
+
+/*Styling for image*/
+img {
+  max-width: 100%;
+  height: auto;
+  border: solid 3px violet;
+}
+
+/*Styling for title App*/
+h1 {
+  color: rgb(224, 49, 224);
+  margin-top: 300px;
+  margin-bottom: 45px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 34px;
+}
+
+.scoreboard {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.p {
+  contain: black solid 3px;
+  margin-left: 100px;
+  margin-right: 100px;
+}

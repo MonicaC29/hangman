@@ -11,7 +11,7 @@ Welcome to the Hangman Game! This is a classic word-guessing game implemented in
 To play the Hangman Game, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/MonicaC29/Hangman-game1.git
+   git clone https://github.com/MonicaC29/Hangman
 
 #How to Play
 
